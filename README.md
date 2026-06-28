@@ -1,6 +1,7 @@
-# Hi, I'm Vinayak 👋
+# Hi, I'm Vinayak
 
-Data Science professional with 3+ years of experience building machine learning models and extracting actionable insights from data. I work across the full ML pipeline — from exploratory analysis to model deployment.
+Good. Now paste the rest below it. Click at the end of what you typed, press Enter twice, then paste this:
+Data Science professional with 3+ years of experience building machine learning models and extracting actionable insights from data.
 
 ---
 
@@ -16,7 +17,7 @@ Data Science professional with 3+ years of experience building machine learning 
 
 ## 📂 Featured Projects
 
-- **[ML Projects](https://github.com/vinmestry/vinmestry)** — End-to-end ML projects covering regression, clustering, classification, NLP, deep learning, and forecasting
+- **ML Projects** — End-to-end projects covering regression, clustering, classification, NLP, deep learning, and forecasting
 
 ---
 
