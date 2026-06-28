@@ -1,7 +1,7 @@
 # Hi, I'm Vinayak
 
-Good. Now paste the rest below it. Click at the end of what you typed, press Enter twice, then paste this:
-Data Science professional with 3+ years of experience building machine learning models and extracting actionable insights from data.
+Data Science professional with 3+ years of experience building machine learning models and extracting actionable insights from data. I work across the full ML pipeline — from exploratory analysis to model deployment."
+
 
 ---
 
